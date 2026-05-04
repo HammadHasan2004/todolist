@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow — To-Do App
 
 A clean, dark-themed to-do list app built with vanilla HTML, CSS, and JavaScript.  
@@ -99,3 +100,6 @@ The code intentionally contains realistic issues that SonarQube will detect:
 | `alert()` in production code | multiple functions | Code Smell |
 | Magic strings (filter values) | `filterTasks()` | Code Smell |
 | Large function (cognitive complexity) | `renderTasks()` | Code Smell |
+=======
+# todolist
+>>>>>>> 3cd8e935cae55bcbdad53d13f3df2b63c24ab9c9
